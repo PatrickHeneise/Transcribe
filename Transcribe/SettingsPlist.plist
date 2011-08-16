@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotationCategories</key>
+	<array>
+		<string>Interpretative</string>
+		<string>Addition</string>
+		<string>Note</string>
+	</array>
+	<key>correspondents</key>
+	<dict>
+		<key>ACKR</key>
+		<string>Kruseman, A.C.</string>
+		<key>ADUR</key>
+		<string>Dürr, A.</string>
+		<key>AGOR</key>
+		<string>Gordon, A.</string>
+		<key>AGUN</key>
+		<string>Gunne, A. ter</string>
+		<key>AGUR</key>
+		<string>Gurly, A.W.</string>
+		<key>AKOK</key>
+		<string>Kok, A.S.</string>
+		<key>ATWI</key>
+		<string>Twietmeyer, A.</string>
+		<key>AWSY</key>
+		<string>Sythoff, A.W.</string>
+		<key>BAUE</key>
+		<string>Auerbach, B.</string>
+		<key>BLYT</key>
+		<string>Lord Lytton, Edward G.D. Bulwer Lytton (1803-1873)</string>
+		<key>BMLI</key>
+		<string>Bristol Medical Library</string>
+		<key>BOUD</key>
+		<string>Boudreaux et fils</string>
+		<key>CDEL</key>
+		<string>Delprat, C.C.</string>
+		<key>CLER</key>
+		<string>Leroux, C.</string>
+		<key>CPTI</key>
+		<string>Tiele, C.P.</string>
+		<key>CSCH</key>
+		<string>Scholtze, Carl</string>
+		<key>CSIN</key>
+		<string>Singer, Charles</string>
+		<key>DYAL</key>
+		<string>Alta, D.Y.</string>
+		<key>EBER</key>
+		<string>Berveiller</string>
+		<key>EBMA</key>
+		<string>Editor of the Burlington magazine</string>
+		<key>EFBO</key>
+		<string>Erven F. Bohn</string>
+		<key>EFEA</key>
+		<string>English and foreign electrotype Agency</string>
+		<key>EHAL</key>
+		<string>Hallberger, E.</string>
+		<key>EJBR</key>
+		<string>Brill, E.J.</string>
+		<key>EMAR</key>
+		<string>Marlitt, E.</string>
+		<key>ENES</key>
+		<string>Eberhart, Nestle</string>
+		<key>ENSC</key>
+		<string>Enschede, Johan</string>
+		<key>EPRS</key>
+		<string>Editors of the Proceedings of the Royal Society</string>
+		<key>EREI</key>
+		<string>Reich, Edward</string>
+		<key>ESTU</key>
+		<string>Editor of the Studio</string>
+		<key>FABR</key>
+		<string>Brockhaus, F.A.</string>
+		<key>FSCH</key>
+		<string>Schultless, Fr.</string>
+		<key>FSIE</key>
+		<string>Sierig, Ferdinand Carl</string>
+		<key>FVOL</key>
+		<string>Volckmar, F.</string>
+		<key>GCST</key>
+		<string>Stechert, G.C.</string>
+		<key>GELI</key>
+		<string>Eliot, G.</string>
+		<key>GFICH</key>
+		<string>Ficher, Gustav</string>
+		<key>GJTH</key>
+		<string>Thieme, G.J.</string>
+		<key>GKEI</key>
+		<string>Keil, G.</string>
+		<key>GREE</key>
+		<string>Green &amp; Sons</string>
+		<key>GSAM</key>
+		<string>Samarow, Gregor</string>
+		<key>HARR</key>
+		<string>Harrassowitz, Otto</string>
+		<key>HCAC</key>
+		<string>H.C.A. Campagne</string>
+		<key>HEIN</key>
+		<string>Heine, Heinrich</string>
+		<key>HJAM</key>
+		<string>James, Henry</string>
+		<key>HKMF</key>
+		<string>Koch&apos;s Machinen-Fabrik</string>
+		<key>HKRA</key>
+		<string>Kramer, H.</string>
+		<key>HLUB</key>
+		<string>Lubowski, Henry</string>
+		<key>HWAR</key>
+		<string>Ward, Humphrey</string>
+		<key>JFRI</key>
+		<string>Richter, J.F.</string>
+		<key>JGCB</key>
+		<string>J.G. Cottasche Buchhandlung</string>
+		<key>JHET</key>
+		<string>Hetzel, J. &amp; Cie</string>
+		<key>JMID</key>
+		<string>Midderich, Jacobus Godefriedus Johannus</string>
+		<key>JRIN</key>
+		<string>Rinkes, J.</string>
+		<key>JSCH</key>
+		<string>Schlenker, J.G.C.</string>
+		<key>JTAD</key>
+		<string>Tadema, J.</string>
+		<key>JTHB</key>
+		<string>Herbert Baily, J.T.</string>
+		<key>JULL</key>
+		<string>Jullien &amp; Cie</string>
+		<key>KFUR</key>
+		<string>Fuhri, K.</string>
+		<key>LALM</key>
+		<string>Alma Tadema, Laurence</string>
+		<key>LOBE</key>
+		<string>Obermuller, L.</string>
+		<key>LYTT</key>
+		<string>Lord Lytton, Edward.R. (1831-1891)</string>
+		<key>MACM</key>
+		<string>Macmillan &amp; Co</string>
+		<key>MCGI</key>
+		<string>McGill</string>
+		<key>MHIT</key>
+		<string>Hittenkofer, Max</string>
+		<key>MMUL</key>
+		<string>Mueller, M.l</string>
+		<key>MSHE</key>
+		<string>Sherborn-Bates, Margaret</string>
+		<key>NBEE</key>
+		<string>Beets, Nicolaas</string>
+		<key>NFEE</key>
+		<string>Feenstra Kuiper, Nelly</string>
+		<key>NPOS</key>
+		<string>Posthumus, N.</string>
+		<key>OUID</key>
+		<string>Ouida</string>
+		<key>RBEN</key>
+		<string>Richard Bentley &amp; Son</string>
+		<key>RFOL</key>
+		<string>Redactie van Folia Neuro Biologie</string>
+		<key>RGER</key>
+		<string>Redactie van de Germania</string>
+		<key>RGRA</key>
+		<string>Grant, R. &amp; Sons</string>
+		<key>RHAM</key>
+		<string>Hamerling, Robert</string>
+		<key>RSED</key>
+		<string>Royal Society of Edinburgh</string>
+		<key>SCHU</key>
+		<string>Schultze, F.</string>
+		<key>SGFL</key>
+		<string>Schriftgießerei Fleisch</string>
+		<key>SMEL</key>
+		<string>Smith, Elder &amp; Co Publishers</string>
+		<key>SMTI</key>
+		<string>Smeeton and Tilly</string>
+		<key>TFUN</key>
+		<string>Fisher Unwin, T.</string>
+		<key>TRSI</key>
+		<string>Troughton &amp; Simms</string>
+		<key>WALL</key>
+		<string>Wallon et fils</string>
+		<key>WBLA</key>
+		<string>William Blackwood &amp; Sons</string>
+		<key>WHEI</key>
+		<string>Heinemann, William</string>
+		<key>WINK</key>
+		<string>Winkler &amp; Co</string>
+		<key>WINO</key>
+		<string>Williams &amp; Norgate</string>
+		<key>WLEW</key>
+		<string>Lewis, William</string>
+		<key>WSCO</key>
+		<string>Walter Scott Publishing Co</string>
+	</dict>
+	<key>languages</key>
+	<array>
+		<string>nl-NL</string>
+		<string>en-GB</string>
+		<string>de-DE</string>
+	</array>
+	<key>referenceAttributes</key>
+	<array>
+		<string>abbr</string>
+		<string>placeName</string>
+		<string>persName</string>
+		<string>del</string>
+		<string>gap</string>
+		<string>superscript</string>
+		<string>choice</string>
+		<string>underlined</string>
+		<string>supplied</string>
+		<string>sic</string>
+		<string>title</string>
+		<string>sender</string>
+		<string>recipient</string>
+		<string>postscriptum</string>
+	</array>
+	<key>test</key>
+	<string>test</string>
+</dict>
+</plist>

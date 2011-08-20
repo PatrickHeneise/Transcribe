@@ -9,7 +9,7 @@ Purpose of this application is to provide an interface on the iPad to transcribe
 ## Getting Started
 ### Get the main repository
 
-    git clone git://github.com/PatrickHeneise/Transcribe.git
+    git clone git://github.com/LIACS/Transcribe.git
 
 ### Get the submodules
 

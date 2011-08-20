@@ -3,7 +3,7 @@
 	url = git@github.com:TouchCode/TouchJSON.git
 [submodule "Vendor/trundle"]
 	path = Vendor/trundle
-	url = https://github.com/schwa/trundle.git
+	url = https://github.com/TouchCode/trundle.git 
 [submodule "Vendor/TouchFoundation"]
 	path = Vendor/TouchFoundation
 	url = https://github.com/TouchCode/TouchFoundation.git
